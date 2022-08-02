@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123190906182",
+    "project_id": "parking-detection-74798",
+    "storage_bucket": "parking-detection-74798.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123190906182:android:fa1ec1746ff5405b356947",
+        "android_client_info": {
+          "package_name": "com.example.parking_detection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123190906182-o5evvqcu6r7im005uo6mqadr8651nhgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxp-0wK50IiAyE4-t34IioQwRn-xgCIso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123190906182-o5evvqcu6r7im005uo6mqadr8651nhgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
